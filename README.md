@@ -77,7 +77,7 @@ Issues, discussions, and pull requests are very welcome:
 - Add new examples or industry patterns in **uapf-examples**.
 - Improve SDKs and tooling in **uapf-python / uapf-typescript / uapf-viewer**.
 
-Standardization direction is coordinated under the **Neksus AI / UAPF working group**.
+Standardization direction is coordinated under the **Algomation / UAPF working group**.
 
 ---
 
