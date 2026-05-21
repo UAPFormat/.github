@@ -1,4 +1,4 @@
-# Unified Algorithmic Process Format (UAPF)
+# Unified Algorithmic Process Format [UAPF]
 
 ![Status: Draft](https://img.shields.io/badge/status-draft-orange)
 ![Version 0.9](https://img.shields.io/badge/version-0.9-blue)
