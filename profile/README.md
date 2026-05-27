@@ -10,6 +10,11 @@
 ## Overview
 UAPF (Unified Algorithmic Process Format) is an open, machine-readable standard for expressing enterprise workflows, decision logic, roles, exceptions, and multi-agent execution semantics. It enables organizations to convert human workflows and undocumented operational knowledge into explicit, portable, AI-executable algorithms—the universal algorithmization layer for modern AI-driven enterprises.
 
+## How UAPF started
+UAPF was created in January 2026 while a group of industry practitioners was preparing a response to the Monetary Authority of Singapore's public consultation on AI Risk Management Guidelines.
+Drafting the answers exposed a gap existing methodologies and standards did not close: AI governance frameworks described the model well, but had no shared, machine-readable way to describe the process the model runs inside, the decisions it makes, and the cases it escalates to humans.
+Instead of inventing a new notation, we compiled the proven OMG cornerstones already trusted in regulated industries — BPMN 2.0, DMN 1.3, and CMMN 1.1 — into a single versioned, agent-readable package format. The first version of UAPF was published with the MAS submission.
+
 ## Motivation
 Enterprises increasingly deploy AI agents to execute business processes, but:
 
